@@ -2,3 +2,4 @@ VotePartyPlugin/VotePartyPlugin.iml
 VotePartyPlugin/.idea
 VotePartyPlugin/out
 VotePartyPlugin/src/plugin.yml
+.gitignore
