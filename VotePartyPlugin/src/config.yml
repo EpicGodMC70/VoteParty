@@ -1,0 +1,14 @@
+PluginPrefix: "&6&lVoteParty &8// &c"
+VotesNeeded: 250
+Rewards:
+  Items:
+    example:
+      type: "grass"
+      name: "&4&lCool grass"
+      lore:
+        - '&1line1'
+        - '&2line2'
+        - '&3line3'
+      glow: true
+  Commands:
+    - 'give %PLAYER% grass 1'
