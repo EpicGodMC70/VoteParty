@@ -1,0 +1,9 @@
+main: me.epicgodmc.voteparty.Main
+name: VoteParty
+version: 1.0
+author: EpicGodMC
+commands:
+  voteparty:
+    aliases:
+      - vp
+    usage: /<command>
